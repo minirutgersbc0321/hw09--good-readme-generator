@@ -128,7 +128,7 @@ function init() {
       let queryURL = `https://api.github.com/users/${answers.username}`;
 
       // Call GitHub API to get the user's profile picture
-      gitHubData.get(queryURL).then((gitHubData) => {
+      axios.get(queryURL).then((gitHubData) => {
         profilePicURL = gitHubData.data.avatar_url;
 
         // Generate project URL

@@ -1,6 +1,6 @@
 Homework9 - Good Readme Genarator
-https://minirutgersbc0321.github.io/hw07--good-readme-generator/.
-github.com/minirutgersbc0321/hw07--good-readme-generator
+https://minirutgersbc0321.github.io/hw09--good-readme-generator/
+https://github.com/minirutgersbc0321/hw09--good-readme-generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # EventScope
@@ -10,8 +10,6 @@ github.com/minirutgersbc0321/hw07--good-readme-generator
 find events by budget
 
 [View Deployed Project](https://github.com/minirutgersbc0321/eventscope)
-  
-
 
 ## Table of Contents
 
@@ -25,8 +23,6 @@ find events by budget
 ## Installation
 
 npm i
-  
-
 
 ## Usage
 
@@ -43,7 +39,7 @@ npm test
 ## Questions
 
 If you have any questions, feel free to reach out!
-  
+
  <img src="https://avatars0.githubusercontent.com/u/63515412?v=4" width="100">
   
  Email: minirutgersbc@gmail.com
